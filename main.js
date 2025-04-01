@@ -1,5 +1,3 @@
-console.log("hello frome external js file");
-
 function getComputerChoice() {
     randomNumber = Math.random();
     if (randomNumber < 0.34) {
